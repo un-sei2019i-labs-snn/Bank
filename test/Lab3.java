@@ -7,7 +7,7 @@ public static void par(int a)
 	if(a%2==0)
 		system.out.println("El numero" + a +" no  es par");
 	else
-		system.out.println("El numero " + a "  no es par");
+		system.out.println("El numero " + a +"  no es par");
 }
 
 public class Lab3 {
