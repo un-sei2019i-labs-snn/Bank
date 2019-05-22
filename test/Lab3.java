@@ -10,10 +10,10 @@ public static int suma(int a,int b,int c ,int d){
 }
 
     public static void main(String[] args) {
-        // TODO code application logic here
+
 
     
-int c =0;
+	int c = 0;
         c = suma(3,7,6,34);
         
         System.out.println(c);        
