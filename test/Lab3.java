@@ -2,12 +2,19 @@
 package lab3;
 
 import java.util.Scanner;
-
+public static void par(int a)
+{
+	if(a%2==0)
+		system.out.println("El numero" + a +" no  es par");
+	else
+		system.out.println("El numero " + a "  no es par");
+}
 
 public class Lab3 {
 
  public static void main(String[] args) {
-        // TODO code application logic here
+        par(2);
+	par(3);
  }
 }
 
