@@ -1,7 +1,3 @@
-
-
-
-
 package lab3;
 
 import java.util.Scanner;
@@ -19,9 +15,6 @@ public static void par(int a)
 	else
 		system.out.println("El numero " + a +"  no es par");
 }
-
-
-
 
     public static void main(String[] args) {
         par(2);
