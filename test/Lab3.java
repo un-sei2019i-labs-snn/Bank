@@ -20,7 +20,7 @@ public static void par(int a)
 		system.out.println("El numero " + a +"  no es par");
 }
 
-public class Lab3 {
+
 
 
     public static void main(String[] args) {
@@ -35,5 +35,5 @@ public class Lab3 {
         
     }
     
-} 
-
+  }   
+}
