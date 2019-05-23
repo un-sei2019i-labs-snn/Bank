@@ -6,26 +6,6 @@ package lab3;
 
 import java.util.Scanner;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 public class Lab3 {
 
 public static int suma(int a,int b,int c ,int d){        
@@ -45,4 +25,4 @@ public static int suma(int a,int b,int c ,int d){
     }
     
 } 
->>>>>>> SantiagoM
+
