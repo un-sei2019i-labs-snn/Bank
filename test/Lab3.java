@@ -1,4 +1,7 @@
 
+
+
+
 package lab3;
 
 import java.util.Scanner;
@@ -12,12 +15,34 @@ import java.util.Scanner;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 public class Lab3 {
 
- public static void main(String[] args) {
-
-
-
- }
+public static int suma(int a,int b,int c ,int d){        
+    return a+b+c+d;
 }
 
+    public static void main(String[] args) {
+
+
+    
+	int c = 0;
+        c = suma(3,7,6,34);
+        
+        System.out.println(c);        
+
+        
+    }
+    
+} 
+>>>>>>> SantiagoM
